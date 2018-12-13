@@ -1,0 +1,68 @@
+Passsenger Trend KPI
+
+Monthly at Each Terminal Wide
+
+Queue Flow Management Integration:
+
+Check-In Wait Time
+Security Wait Time
+Baggage Reclaim Wait Time
+Immigration Wait Time
+Baggage Waiting Time
+
+Mishandled Baggage 
+On Time Performance 
+
+Cargo Domestic / InternationaL
+Cargo by Airlines D/I
+
+Airport Operations KPI:
+1.Turnaround times in the apron/gate area
+2.Arrival Inbound efficiency
+3.Departure Outbound efficiency
+4.Temporal distribution of demand by time-of-day
+5.Total traffic in terms of aircraft movements
+6.Runway occupancy times by type of aircraft
+7.Taxiing times from runways to apron/gates and
+vice-versa
+8.Baggage delivery time
+9.Number of runways and taxiways
+simultaneously in use 
+
+
+Arrival inbound efficiency: This indicator
+measures the arrival delay at the airport after
+removing ATFM regulations (e.g. ground
+holding), and if possible inbound flight delay,
+from the measurement. Thus, it shows if the
+airport is able to deal with the incoming flights
+without causing delays.
+Departure outbound efficiency: This indicator
+measures the pre-departure delays at the airport,
+after the possible removal of delays not caused
+at/by the airport. It indicates whether the airport is
+able to process the flights in a timely manner.
+Turnaround times in the apron/gate area: This
+indicator measures the average turnaround times
+(the time required for activities from landing until
+the aircraft can take off again) in the apron/gate
+area. It can be appropriately used in benchmarks,
+and whe
+
+
+Today 24 hours ATM***** hourly dashboard
+Maximum aircraft movements per hour 
+
+Baggage Delivery Time
+Average time for delivery of first bag and last bag—measured over the
+course of a year.
+
+
+Aircraft Movements Per Gate
+
+Origin - Destimation Pax
+
+
+Runway occupancy times by type of aircraft
+
+Arrival / Departure Delay caused by Airport
